@@ -1,1 +1,9 @@
-THIS IS A TEST FILE.
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello Friend" << endl;
+    return 1;
+}
